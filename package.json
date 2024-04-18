@@ -1,0 +1,21 @@
+{
+  "name": "crudappnodehapimongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.9",
+    "@hapi/joi": "^17.1.1",
+    "hapi-mongodb": "^11.0.0",
+    "joi-objectid": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

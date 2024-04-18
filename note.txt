@@ -1,0 +1,13 @@
+
+https://www.mongodb.com/developer/languages/javascript/hapijs-nodejs-driver/
+
+
+Building a RESTful API with Hapi.js
+Now that we have the basics down, let's go ahead and create the actual routes for our API. The API routes that we'll need to create are as follows:
+
+    Get all movies
+    Get a single movie
+    Insert a movie
+    Update a movie
+    Delete a movie
+    Search for a movie
